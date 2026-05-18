@@ -7,7 +7,7 @@
 #   (the CI will enforce the maximum, no need to worry about it)
 # ============================================================
 
-student: "Zarbaliyev Emil" # Your name here
+student:
   website_under_test: "http://quotes.toscrape.com/"
     
     
